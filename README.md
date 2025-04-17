@@ -4,9 +4,9 @@
 
 A command-line tool allowing developers to find security vulnerabilities within a Java project. This is done through:
 
-- Static Application Security Testing (SAST) run against any first party code (.java, .jsp) to identify
+- Static Application Security Testing (SAST) run against first party code (.java, .jsp) to identify
   potential CWE vulnerabilities.
-- Software Composition Analysis (SCA) that identifies any outdated dependencies within the pom.xml file and their
+- Software Composition Analysis (SCA) that identifies outdated dependencies within the pom.xml file and their
   associated CVE vulnerabilities.
 
 [Read about the development of this project here](./Report)
